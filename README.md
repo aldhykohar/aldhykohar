@@ -9,7 +9,7 @@
 
 #### Top Technolog
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhykohar&layout=compact&theme=gotham)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhykohar&layout=compact&theme=gotham)
 
 
 #### Github Stats
