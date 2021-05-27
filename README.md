@@ -10,8 +10,3 @@
 #### Top Technology
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhykohar&layout=compact&theme=gotham)
-
-
-#### Github Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldhykohar&count_private=true&hide=contribs,prs&show_icons=true&theme=gotham)
