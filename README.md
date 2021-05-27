@@ -7,7 +7,7 @@
 - 🚩 I'm living at _Makassar, Sulawesi Selatan_
 
 
-#### Top Technolog
+#### Top Technology
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhykohar&layout=compact&theme=gotham)
 
