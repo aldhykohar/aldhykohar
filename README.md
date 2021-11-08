@@ -2,6 +2,7 @@
 
 - 👷 I’m currently working on _BOOBLE.ID_ as a Android Developer
 - 📚 I’m currently learning Kotlin and Flutter
+- 📚 And I’m currently learning to Beckend with Node.Js and Golang
 - 💻 Most used line of code `git commit -m Initial Commit`
 - 📥 How to reach me : aldhykohar@stimednp.ac.id
 - 🚩 I'm living at _Makassar, Sulawesi Selatan_
