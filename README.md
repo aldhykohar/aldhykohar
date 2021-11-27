@@ -1,4 +1,4 @@
-#### Hi there, Aldhykohar 👋 Im just a Android Developer:
+#### Hi there👋:
 
 
 - 👷 I’m Android Develop with Java, Kotlin and Flutter
